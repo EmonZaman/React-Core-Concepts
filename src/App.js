@@ -25,6 +25,7 @@ function App() {
         >
         <p className="" style={style}>{person.name} and his profession is {person.job }</p>
           Learn React
+          and Enjoy
         </a>
       </header>
     </div>
